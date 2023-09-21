@@ -1,54 +1,34 @@
-# Astro Starter Kit: Basics
+# Astro introduction website
 
-```sh
-npm create astro@latest -- --template basics
-```
+## Introduction
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+Small code-to-learn project built with Astro meta framework. This project also allows to add blog post through .md files in posts folder. 
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+The initial high-fidelity mock-up and code was taken from this tutorial : [https://www.youtube.com/watch?v=_oO4Qi5aVZs](https://www.youtube.com/watch?v=Oi9z5gfIHJs)
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+Fully responsive for mobile and desktop usage. 
 
-## 🚀 Project Structure
+![arthwr github io_astro-website_](https://github.com/Arthwr/astro-website/assets/132221421/3832f499-7d5e-4639-8ad5-97826861e5e0)
 
-Inside of your Astro project, you'll see the following folders and files:
+## Technologies
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+1. Astro 
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+## Live Demo
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+[[Live Demo]([https://arthwr.github.io/manage-landing-page/](https://arthwr.github.io/bank-modern-app/))
+](https://arthwr.github.io/astro-website/)
 
-Any static assets, like images, can be placed in the `public/` directory.
+## Project Screenshots and Preview
+<details>
+  <summary>Blog</summary>
+![arthwr github io_astro-website_blog_](https://github.com/Arthwr/astro-website/assets/132221421/fec39b89-0767-4330-9e54-6b84befcaa90)
 
-## 🧞 Commands
+</details>
 
-All commands are run from the root of the project, from a terminal:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+<details>
+  <summary>Blog Post</summary>
+![arthwr github io_astro-website_astro-1-0_ (1)](https://github.com/Arthwr/astro-website/assets/132221421/1a308230-4f8e-46e5-90a3-def88466c20b)
 
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+</details>
