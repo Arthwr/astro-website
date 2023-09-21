@@ -19,7 +19,7 @@ const posts = await Astro.glob("../posts/*.md");
               on {new Date(post.frontmatter.date).toLocaleDateString()}
             </div>
             <p>{post.frontmatter.excerpt}</p>
-            <a href={`/${post.frontmatter.slug}`} class="btn">
+            <a href={`/asto-website/${post.frontmatter.slug}`} class="btn">
               Read More
             </a>
           </Card>
