@@ -16,8 +16,7 @@ Fully responsive for mobile and desktop usage.
 
 ## Live Demo
 
-[[Live Demo]([https://arthwr.github.io/manage-landing-page/](https://arthwr.github.io/bank-modern-app/))
-](https://arthwr.github.io/astro-website/)
+[[Live Demo]([https://arthwr.github.io/manage-landing-page/](https://arthwr.github.io/bank-modern-app/))](https://arthwr.github.io/astro-website/)
 
 ## Project Screenshots and Preview
 <details>
