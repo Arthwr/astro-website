@@ -22,11 +22,9 @@ Fully responsive for mobile and desktop usage.
 ## Project Screenshots and Preview
 <details>
   <summary>Blog</summary>
-[Astro Blog](https://github.com/Arthwr/astro-website/assets/132221421/0b941cb0-9c09-4373-872a-cab73e1980d8)
-
+![Astro Blog](https://github.com/Arthwr/astro-website/assets/132221421/a2ea3d21-6ad5-428f-af3e-1318bd3c5365)
 
 </details>
-
 
 <details>
   <summary>Blog Post</summary>
